@@ -1,0 +1,41 @@
+Text: Top 10 IMDb Movies
+
+1. The Shawshank Redemption (1994)
+Directed by Frank Darabont. Starring Tim Robbins and Morgan Freeman.
+A powerful story of hope and friendship inside Shawshank prison. Andy Dufresne, sentenced for a crime he didn’t commit, builds a legacy of resilience and justice.
+
+2. The Godfather (1972)
+Directed by Francis Ford Coppola. Starring Marlon Brando and Al Pacino.
+An epic saga of the Corleone mafia family, exploring power, loyalty, and betrayal in organized crime.
+
+3. The Dark Knight (2008)
+Directed by Christopher Nolan. Starring Christian Bale and Heath Ledger.
+A gritty superhero masterpiece where Batman faces his deadliest rival, the Joker, in a moral battle for Gotham City.
+
+4. The Godfather Part II (1974)
+Directed by Francis Ford Coppola. Starring Al Pacino and Robert De Niro.
+A dual narrative showing the rise of young Vito Corleone and Michael Corleone’s consolidation of power.
+
+5. 12 Angry Men (1957)
+Directed by Sidney Lumet. Starring Henry Fonda and Lee J. Cobb.
+A courtroom drama where 12 jurors debate the fate of a young man accused of murder. A study of justice and prejudice.
+
+6. Schindler’s List (1993)
+Directed by Steven Spielberg. Starring Liam Neeson, Ben Kingsley, and Ralph Fiennes.
+The true story of Oskar Schindler, a German industrialist who saved over 1,000 Jews during the Holocaust.
+
+7. The Lord of the Rings: The Return of the King (2003)
+Directed by Peter Jackson. Starring Elijah Wood, Viggo Mortensen, and Ian McKellen.
+The final installment of the epic fantasy trilogy, where Frodo and Sam reach Mount Doom to destroy the One Ring.
+
+8. Pulp Fiction (1994)
+Directed by Quentin Tarantino. Starring John Travolta, Samuel L. Jackson, and Uma Thurman.
+An interwoven story of crime and redemption in Los Angeles, famous for its nonlinear narrative and sharp dialogue.
+
+9. The Good, the Bad and the Ugly (1966)
+Directed by Sergio Leone. Starring Clint Eastwood, Eli Wallach, and Lee Van Cleef.
+A spaghetti western classic about three gunslingers competing to find buried Confederate gold.
+
+10. The Lord of the Rings: The Fellowship of the Ring (2001)
+Directed by Peter Jackson. Starring Elijah Wood, Ian McKellen, and Orlando Bloom.
+The first film in the trilogy, introducing the Fellowship’s journey to destroy the One Ring.
