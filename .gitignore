@@ -4,6 +4,7 @@ RAG_QA_App_Gemini_API_Llama/template.py
 RAG_QA_App_Gemini_API_Llama/__pycache__
 RAG_QA_App_Gemini_API_Llama/logs
 RAG_QA_App_Gemini_API_Llama/.env
+RAG_QA_App_Gemini_API_Llama/QAWithPDF/__pycache__
 
 # ------------------- Ecommerce_chatbot_AstraDB_langchain ------------------
 Ecommerce_chatbot_AstraDB_langchain/.env
