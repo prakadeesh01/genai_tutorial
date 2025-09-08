@@ -11,3 +11,5 @@ Ecommerce_chatbot_AstraDB_langchain/.env
 Ecommerce_chatbot_AstraDB_langchain/chatbotenv
 Ecommerce_chatbot_AstraDB_langchain/chatbot/__pycache__
 Ecommerce_chatbot_AstraDB_langchain/Ecommercebot.egg-info
+
+strip_fun.py
